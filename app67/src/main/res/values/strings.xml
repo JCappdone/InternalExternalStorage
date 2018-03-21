@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App67</string>
+    <string-array name="categories">
+        <item>Salads</item>
+        <item>Starters</item>
+        <item>Entrees</item>
+        <item>Desserts</item>
+        <item>Drinks</item>
+    </string-array>
+</resources>

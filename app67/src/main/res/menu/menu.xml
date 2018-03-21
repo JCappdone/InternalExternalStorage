@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/salad_menu"
+        android:title="Salad" />
+ <item
+        android:id="@+id/starters_menu"
+        android:title="Starters" />
+ <item
+        android:id="@+id/entrees_menu"
+        android:title="Entrees" />
+ <item
+        android:id="@+id/desserts_menu"
+        android:title="Desserts" />
+ <item
+        android:id="@+id/drinks_menu"
+        android:title="Drinks" />
+ <item
+        android:id="@+id/all_item_menu"
+        android:title="AllItems" />
+ <item
+     android:id="@+id/undo_menu"
+     android:title="AllUndo" />
+ <item
+     android:id="@+id/last_undo_menu"
+     android:title="Undo" />
+ <item
+     android:id="@+id/delete_menu"
+     android:title="Delete Selected" />
+
+
+</menu>
